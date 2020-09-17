@@ -4,7 +4,7 @@ nav_order: 1
 
 საიტი გადავიდა ახალ მისამართზე:
 
-https://freeuni-paradigms.github.git@github.com:freeuni-paradigms/freeuni-paradigms.github.io/
+https://freeuni-paradigms.github.io/
 
 თავიდან კლონირება არ არის საჭირო, უბრალოდ გაუშვით ეს ბრძანება `paradigms` დირექტორიაში
 ```sh
