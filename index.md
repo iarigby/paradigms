@@ -6,9 +6,8 @@ nav_order: 1
 
 https://freeuni-paradigms.github.io/
 
-თავიდან კლონირება არ არის საჭირო, უბრალოდ გაუშვით ეს ბრძანება `paradigms` დირექტორიაში
+თავიდან კლონირება არ არის საჭირო, გადადით იმ ადგილას, სადაც `paradgims` დირექტორია არის.
 ```sh
-git remote remove origin
-git remote add origin https://github.com/freeuni-paradigms/freeuni-paradigms.github.io.git
-git pull 
+mv paradigms paradigms-old
+git clone https://github.com/freeuni-paradigms/freeuni-paradigms.github.io paradigms
 ```
