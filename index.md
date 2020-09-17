@@ -9,6 +9,6 @@ https://freeuni-paradigms.github.io/
 თავიდან კლონირება არ არის საჭირო, უბრალოდ გაუშვით ეს ბრძანება `paradigms` დირექტორიაში
 ```sh
 git remote remove origin
-git remote add origin git@github.com:freeuni-paradigms/freeuni-paradigms.github.io.git
+git remote add origin https://github.com/freeuni-paradigms/freeuni-paradigms.github.io.git
 git pull 
 ```
