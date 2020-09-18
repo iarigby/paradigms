@@ -1,6 +1,13 @@
-# პროგრამირების პარადიგმები
+---
+nav_order: 1
+---
 
-თავისუფალი უნივერსიტეტი, 2020 შემოდგომა
+საიტი გადავიდა ახალ მისამართზე:
 
+https://freeuni-paradigms.github.io/
 
-ამ კოდის საკუთარ კომპიუტერზე გადმოწერის ინსტრუქცია არის [using git](./content/resources/using_git.md) გვერდზე
+კოდიც გადავიდა, თქვენს კომპიუტერზე განახლებისთვის გადადით იმ ადგილას, სადაც `paradgims` დირექტორია არის და ტერმინალში ჩასვით ეს ბრძანება
+```sh
+mv paradigms paradigms-old
+git clone https://github.com/freeuni-paradigms/freeuni-paradigms.github.io paradigms
+```
